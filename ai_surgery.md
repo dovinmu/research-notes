@@ -15,3 +15,5 @@ distill.pub has a number of great publications that visualize different aspects 
 ## Misc links
 
 [Lambda Labs, demystifying GPT-3](https://lambdalabs.com/blog/demystifying-gpt-3/)
+
+[2013 paper on word embeddings and vector offsets](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rvecs.pdf) (word algebra)
